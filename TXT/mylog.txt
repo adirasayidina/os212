@@ -15,4 +15,4 @@ ZCZC W01  50 L11 Assignment #1: VirtualBox Guest Preparation (done)
 ZCZC W01  60 L02 ZOOM meetings related
 ZCZC W01  90 L12 Assignment #2: Importing or Installing? (done)
 ZCZC W01  10 L08 AsDos: asking
-
+ZCZC W01  30 L32 YouTube: study
