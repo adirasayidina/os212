@@ -16,3 +16,8 @@ ZCZC W01  60 L02 ZOOM meetings related
 ZCZC W01  90 L12 Assignment #2: Importing or Installing? (done)
 ZCZC W01  10 L08 AsDos: asking
 ZCZC W01  30 L32 YouTube: study
+ZCZC W01  70 L13 Assignment #3: The ATM Way: GSGS and Read (done)
+ZCZC W01  30 L14 Assignment #4: Dress Up Your Virtual Guest (done)
+ZCZC W01  30 L15 Assignment #5: SSH Keys and Git Cloning (done)
+ZCZC W01  30 L16 Assignment #6: Dress Up Your GitHub Page (done)
+ZCZC W01  15 L17 Assignment #7: Update mylog.txt
