@@ -20,4 +20,6 @@ ZCZC W01  70 L13 Assignment #3: The ATM Way: GSGS and Read (done)
 ZCZC W01  30 L14 Assignment #4: Dress Up Your Virtual Guest (done)
 ZCZC W01  30 L15 Assignment #5: SSH Keys and Git Cloning (done)
 ZCZC W01  30 L16 Assignment #6: Dress Up Your GitHub Page (done)
-ZCZC W01  15 L17 Assignment #7: Update mylog.txt
+ZCZC W01  15 L17 Assignment #7: Update mylog.txt (done)
+ZCZC W01  50 L18 Assignment #8: More awk, bash, regex, sed (done)
+ZCZC W01  55 L19 Assignment #9: OSC 10 (done)
