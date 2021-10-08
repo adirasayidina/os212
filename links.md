@@ -28,3 +28,5 @@ Berisi mengenai method malloc(), calloc(), free(), dan realloc() yang dilengkapi
 Sama seperti website sebelumnya, website ini juga menjelaskan tentang malloc(), calloc(), realloc(), dan free().
 11. [Difference Between Logical and Physical Address in Operating System](http://www.meerutcollege.org/mcm_admin/upload/1587052623.pdf) <br>
 Seperti judulnya, link ini berisi penjelasan perbedaan antara logical dan physical address, link ini juga berisi penjelasan mengenai swapping, contiguous memory allocation, dan yang lainnya.
+12. [How to Use the Linux Top Command](https://www.tecmint.com/12-top-command-examples-in-linux/) <br>
+Website ini berisi penjelasan mengenai command top pada linux, disertai dengan contoh output. 
