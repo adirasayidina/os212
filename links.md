@@ -30,3 +30,11 @@ Sama seperti website sebelumnya, website ini juga menjelaskan tentang malloc(), 
 Seperti judulnya, link ini berisi penjelasan perbedaan antara logical dan physical address, link ini juga berisi penjelasan mengenai swapping, contiguous memory allocation, dan yang lainnya.
 12. [How to Use the Linux Top Command](https://www.tecmint.com/12-top-command-examples-in-linux/) <br>
 Website ini berisi penjelasan mengenai command top pada linux, disertai dengan contoh output. 
+13. [Fork() in C Programming Language](https://www.section.io/engineering-education/fork-in-c-programming-language/) <br>
+Penjelasan dasar mengenai fork() pada C language disertai dengan ilustrasi.
+14. [fork() in C](https://www.geeksforgeeks.org/fork-system-call/) <br>
+Website ini berisi penjelasan fork() pada C language, penjelasan contoh program, dan latihan soal mengenai fork().
+15. [Apa itu Thread dan Concurrency?](https://dev.to/fncolon/apa-itu-thread-dan-concurrency-dan-perbedaan-multiprocessing-multiprogramming-dengan-multithreading-1n7k) <br>
+Website ini membahas thread dan concurrency, selain itu terdapat penjelasan singkat mengenai multithreading, multiprocessing, dan multiprogramming.
+16. [Multithreadig and Concurrency Fundamentals](https://www.educative.io/blog/multithreading-and-concurrency-fundamentals) <br>
+Website ini membahas lebih lanjut mengenai multithreading, seperti contoh, alasan menggunakan multithreading, konsep dasar mengenai multithreading, dan masalah pada multiple threads serta cara menghindarinya.

@@ -77,3 +77,16 @@ ZCZC W05  15 L15 Assignment #5: Update your bookmark links
 ZCZC W05  10 L17 Assignment #7: Review your peer links
 ZCZC W05  05 L18 Assignment #8: Update your log
 ZCZC W05  05 L19 Assignment #9: Submit Your Week 05 Assignment
+ZCZC W06  30 L05 Quiz related: persiapan
+ZCZC W06  15 L22 Quiz (Quiz2 Week05)
+ZCZC W06  05 L22 Quiz (Quiz1 Week05)
+ZCZC W06 100 L02 Zoom meetings related
+ZCZC W06  30 L11 Assignment #1: Read OSC10 chapter 3 and 4
+ZCZC W06  20 L12 Assignment #2: Try Demos
+ZCZC W06  60 L13 Assignment #3: Try Previous MidTerm Problems
+ZCZC W06  10 L14 Assignment #4: Fork() and Shared Memory
+ZCZC W06  15 L15 Assignment #5: Update your bookmark links
+ZCZC W06  40 L16 Assignment #6: (Optional) Any suggestions/tips for the next semester class?
+ZCZC W06  15 L17 Assignment #7: Review your peer links
+ZCZC W06  05 L18 Assignment #8: Update your log
+ZCZC W06  05 L19 Assignment #9: Submit Your Week 06 Assignment 
