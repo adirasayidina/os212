@@ -4,7 +4,7 @@ permalink: /LINKS/
 
 # LINKS
 
-[HOME](https://adirasayidina.github.io/os212/) | [mylog](TXT/mylog.txt) | [GitHub](https://github.com/adirasayidina) | [LINKS](/links.md/)
+[HOME](https://adirasayidina.github.io/os212/) | [mylog](TXT/mylog.txt) | [GitHub](https://github.com/adirasayidina) | [LINKS](/links.md/) | [myrank](TXT/myrank.txt) | [TIPS](/tips.md/)
 
 1. [Basic Linux Command](https://www.javatpoint.com/linux-commands) <br>
 Website ini berisi 50 linux commands lengkap dengan contoh penggunaan dan penjelasan singkat.
