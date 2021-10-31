@@ -4,7 +4,7 @@ permalink: /TIPS/
 
 # TIPS
 
-[HOME](https://adirasayidina.github.io/os212/) | [mylog](TXT/mylog.txt) | [GitHub](https://github.com/adirasayidina) | [LINKS](/links.md/) | [TIPS](/tips.md/)
+[HOME](https://adirasayidina.github.io/os212/) | [mylog](TXT/mylog.txt) | [GitHub](https://github.com/adirasayidina) | [LINKS](/links.md/) | [myrank](TXT/myrank.txt) | [TIPS](/tips.md/)
 
 1. Pahami pembahasan soal <br>
 Agar dapat mengerjakan quiz dengan baik, pahami penjelasan soal saat kelas sinkronus dan jangan lupa untuk mengerjakan soal-soal yang tersedia.
