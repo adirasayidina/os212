@@ -38,3 +38,11 @@ Website ini berisi penjelasan fork() pada C language, penjelasan contoh program,
 Website ini membahas thread dan concurrency, selain itu terdapat penjelasan singkat mengenai multithreading, multiprocessing, dan multiprogramming.
 16. [Multithreadig and Concurrency Fundamentals](https://www.educative.io/blog/multithreading-and-concurrency-fundamentals) <br>
 Website ini membahas lebih lanjut mengenai multithreading, seperti contoh, alasan menggunakan multithreading, konsep dasar mengenai multithreading, dan masalah pada multiple threads serta cara menghindarinya.
+17. [Deadlock](https://www.guru99.com/deadlock-in-operating-system.html) <br>
+Link ini berisi penjelasan mengenai deadlock, terdapat pengantar mengenai deadlock, contoh deadlock, kelebihan kekurangan deadlock, cara menghindari deadlock, dan lainnya.
+18. [Introduction to Deadlock](https://www.javatpoint.com/os-deadlocks-introduction) <br>
+Sama seperti link sebelumnya, link ini menjelaskan deadlock secara lebih singkat.
+19. [Synchronization](https://www.javatpoint.com/os-process-synchronization-introduction) <br>
+Website ini berisi penjelasan mengenai synchronization yang dibagi menjadi beberapa subbab.
+20. [Classical Problems of Synchronization](https://www.studytonight.com/operating-system/classical-synchronization-problems) <br>
+Link ini menjelaskan bounded buffer problem, dining philosophers problem, dan the readers writers problem.
