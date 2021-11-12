@@ -102,3 +102,17 @@ ZCZC W07  30 L15 Assignment #5: Update your bookmark links
 ZCZC W07  10 L17 Assignment #7: Review your peer links
 ZCZC W07  05 L18 Assignment #8: Update your log
 ZCZC W07  05 L19 Assignment #9: Submit Your Week 07 Assignment 
+ZCZC W08  45 L05 Quiz related: persiapan
+ZCZC W08  15 L22 Quiz (Quiz2 Week06)
+ZCZC W08  05 L22 Quiz (Quiz1 Week06)
+ZCZC W08 100 L02 Zoom meetings related
+ZCZC W08  15 L02 Zoom meetings related
+ZCZC W08  05 L11 Assignment #1: Read OSC10 chapter 5
+ZCZC W08  30 L12 Assignment #2: Try Demos
+ZCZC W08  10 L13 Assignment #3: Try Previous MidTerm Problems
+ZCZC W08  40 L14 Assignment #4: Linux From Scratch 11.0 Chapter 01-04
+ZCZC W08  70 L15 Assignment #5: Linux From Scratch 11.0 Chapter 05
+ZCZC W08  10 L16 Assignment #6: Update your bookmark links
+ZCZC W08  05 L18 Assignment #8: Review your peer links
+ZCZC W08  05 L19 Assignment #9: Update your log
+ZCZC W08  05 L09 Assignment #10: Submit Your Week 08 Assignment

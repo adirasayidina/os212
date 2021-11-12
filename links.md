@@ -46,3 +46,7 @@ Sama seperti link sebelumnya, link ini menjelaskan deadlock secara lebih singkat
 Website ini berisi penjelasan mengenai synchronization yang dibagi menjadi beberapa subbab.
 20. [Classical Problems of Synchronization](https://www.studytonight.com/operating-system/classical-synchronization-problems) <br>
 Link ini menjelaskan bounded buffer problem, dining philosophers problem, dan the readers writers problem.
+21. [CPU Scheduling](https://www.guru99.com/cpu-scheduling-algorithms.html) <br>
+Website ini menjelaskan tentang CPU scheduling, mulai dari definisi, tipe CPU scheduling, kriteria CPU scheduling, istilah-istilah dalam CPU scheduling, algoritma-algoritma dalam CPU scheduling, dan lainnya.
+22. [CPU Scheduling in Operating Systems](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/) <br>
+Sama seperti website sebelumnya, website ini menjelaskan tentang CPU scheduling yang dilengkapi dengan latihan soal pada bagian terakhir.
